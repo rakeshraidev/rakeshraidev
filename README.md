@@ -21,6 +21,7 @@ I'm specialized in:
 ## How to find me: 
 
   - [Facebook](https://www.facebook.com/rakeshrai1992)
+   [Linkedin](https://www.linkedin.com/in/rakesh-kumar-rai/)
 
 ## Personal Details:
 
