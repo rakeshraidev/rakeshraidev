@@ -1,19 +1,29 @@
-### Hi there. I am Raeksh Rai 👋
+# Hi there. I am Rakesh 👋
 
-I am Web developer and having 6 years of experience.
+I am Web developer and having 4 years of experience.
 
 I'm specialized in:
 
-Backend programming languages: PHP, Laravel Framework
-Mobile app programming language: React Native
-Database: MySQL
-JavaScript, Typescript, jQuery, Underscore.js
-HTML, CSS, Twitter Bootstrap, Tailwindcss
-Shopify E-commerce app development, Theme customization.
-RESTful and Soap API
-Paypal and Stripe payment integration
-AWS, FireBase, Azure, cPanel
-Webpack, NPM, NVM, Yarn
-Git, GitHub, Gitlab, Bitbucket, Docker, Jenkins
-OS: Ubuntu, macOS, Window
-Apache, Nginx server, IIS Server
+- Backend programming languages: PHP, Laravel Framework
+- Frontend programming languages: React.js
+- Database: MySQL
+- JavaScript, Typescript, jQuery, Underscore.js
+- HTML, CSS, Twitter Bootstrap, Tailwindcss, Material-UI
+- Shopify,Wordpress E-commerce app development, Theme customization.
+- Paypal and Stripe payment integration
+- AWS FireBase, Azure, cPanel
+- Webpack, NPM, NVM, Yarn
+- Git, GitHub, Gitlab, Bitbucket
+- OS: Ubuntu, macOS, Window
+- Apache, Nginx server, IIS Server
+- RESTful and Soap API
+
+## How to find me: 
+
+  - [Facebook](https://www.facebook.com/rakeshrai1992)
+
+## Personal Details:
+
+Name: Rakesh Rai<br>
+Qualification: B.Tech in Inormation Technology<br>
+
