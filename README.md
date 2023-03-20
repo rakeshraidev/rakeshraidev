@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there. I am Raeksh Rai 👋
 
+I am Web developer and having 6 years of experience.
 
-**rakeshraidev/rakeshraidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm specialized in:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Backend programming languages: PHP, Laravel Framework
+Mobile app programming language: React Native
+Database: MySQL
+JavaScript, Typescript, jQuery, Underscore.js
+HTML, CSS, Twitter Bootstrap, Tailwindcss
+Shopify E-commerce app development, Theme customization.
+RESTful and Soap API
+Paypal and Stripe payment integration
+AWS, FireBase, Azure, cPanel
+Webpack, NPM, NVM, Yarn
+Git, GitHub, Gitlab, Bitbucket, Docker, Jenkins
+OS: Ubuntu, macOS, Window
+Apache, Nginx server, IIS Server
